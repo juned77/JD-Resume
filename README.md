@@ -12,6 +12,8 @@ For mobile view
 
 ![alt text](https://github.com/juned77/JD-Resume/blob/master/screenshots/mobile_1.png)
 
+![alt text](https://github.com/juned77/JD-Resume/blob/master/screenshots/mobile_2.png)
+
  https://github.com/juned77/JD-Resume/blob/master/screenshots/mobile_1.png
  
  https://github.com/juned77/JD-Resume/blob/master/screenshots/mobile_2.png
@@ -19,6 +21,7 @@ For mobile view
 For Web view
 
 ![alt text](https://github.com/juned77/JD-Resume/blob/master/screenshots/webview_1.png)
+![alt text](https://github.com/juned77/JD-Resume/blob/master/screenshots/webview_2.png)
 
  https://github.com/juned77/JD-Resume/blob/master/screenshots/webview_1.png
 
