@@ -26,4 +26,7 @@ For Web view
  https://github.com/juned77/JD-Resume/blob/master/screenshots/webview_1.png
 
  https://github.com/juned77/JD-Resume/blob/master/screenshots/webview_2.png
+ 
+Design Ideas taken from 
+https://templatemo.com/tm-467-easy-profile
 
