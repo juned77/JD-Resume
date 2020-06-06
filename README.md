@@ -1,6 +1,6 @@
-# jdwebapp
+# Juned Siddiqui webapp
 
-A new Flutter application.
+A new Flutter web application that depicts the web portfolio in flutter created website.
 
 ## Getting Started
 
